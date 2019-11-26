@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="IG-Management">1328466e1b95801893d1dbd5bc4bcbcb</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>All</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>wm_task</name>
+        <order>6</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>peter.mosca</sys_created_by>
+        <sys_created_on>2019-11-26 18:36:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a7284a6e1b95801893d1dbd5bc4bcb59</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IG-Management" source="x_snc_ig_managemen">a27642661b95801893d1dbd5bc4bcbf7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IG-Management">a27642661b95801893d1dbd5bc4bcbf7</sys_scope>
+        <sys_update_name>sys_app_module_a7284a6e1b95801893d1dbd5bc4bcb59</sys_update_name>
+        <sys_updated_by>peter.mosca</sys_updated_by>
+        <sys_updated_on>2019-11-26 18:36:44</sys_updated_on>
+        <timeline_page/>
+        <title>All</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
